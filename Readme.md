@@ -14,6 +14,10 @@ In this workshop we will utilize multiple Azure services, which enable us to sen
 
 **Blob Storage** - to archive messages
 
+Here is architectural view on what we will create in this lab:
+
+![](images/architecture.png)
+
 Prerequisite to go thru this lab is existing Azure subscription. If you do not have one, you can easily activate one month trial subscription, in which you get 200$ credit for free. To activate trial subscription visit this page: https://azure.microsoft.com/en-us/free/ 
 
 
@@ -313,7 +317,7 @@ To create Azure functions which will get activated by incoming messages to Event
 
 10. After selecting Storage account just click Save
 
-    ![](images/functions10.jpg)
+   ![](images/functions10.jpg)
 
 11. As a last point we need to alter the code of the function slightly. Navigate to your the code of the functions and you will see that there was already some code pre-generated. We need to alter it  so it writes to output blobs. 
 
