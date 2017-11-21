@@ -317,7 +317,7 @@ To create Azure functions which will get activated by incoming messages to Event
 
 10. After selecting Storage account just click Save
 
-   ![](images/functions10.jpg)
+  ![](images/functions10.jpg)
 
 11. As a last point we need to alter the code of the function slightly. Navigate to your the code of the functions and you will see that there was already some code pre-generated. We need to alter it  so it writes to output blobs. 
 
@@ -348,3 +348,18 @@ To create Azure functions which will get activated by incoming messages to Event
 ## Conclusion
 
 Congratulation you have now completed the whole Lab and you were able to get started with several Azure Services that are suitable for implementing IoT Scenarios, more specifically ingress, processing and visualization of data. Bellow we are adding some useful links related to the services we have touched. All these services provide a lot more functionality, than we were able to touch in this lab so we encourage you to go thru the resources and explore even more advanced capabilities of these services.
+
+## Useful links
+
+**Get Azure Free Trial:** <https://azure.microsoft.com/en-us/free/>
+
+**Azure IoT Hub Documentation**: [https://docs.microsoft.com/en-us/azure/iot-hub](https://docs.microsoft.com/en-us/azure/iot-hub/)[/](https://docs.microsoft.com/en-us/azure/iot-hub/) 
+
+**Azure Stream Analytics Documentation:** [https://docs.microsoft.com/en-us/azure/stream-analytics/](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction)[stream-analytics-introduction](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction) 
+
+**Power BI Documentation:** [https://docs.microsoft.com/en-us/power-bi](https://docs.microsoft.com/en-us/power-bi/)[/](https://docs.microsoft.com/en-us/power-bi/) 
+
+**Azure Functions Documentation:** https://docs.microsoft.com/en-us/azure/azure-functions/
+
+
+
